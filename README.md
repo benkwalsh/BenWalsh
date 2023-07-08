@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋🏼 About Me:
 I'm Currently studying a the University of Canterbury<br>I'm Currently learning about Embedded Systems, AI and Data Mining<br>I'm looking for a Summer Internship<br>Reach me on Instagram @ben.walsh4 , or by email: ben.walsh4@icloud.com<br><br>
 
 
@@ -15,4 +15,3 @@ I'm Currently studying a the University of Canterbury<br>I'm Currently learning 
 ---
 [![](https://visitcount.itsvg.in/api?id=benscuit&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
