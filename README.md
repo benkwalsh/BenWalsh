@@ -1,8 +1,7 @@
 # 👋🏼 About Me:
 I'm Currently studying a the University of Canterbury<br>I'm Currently learning about Embedded Systems, AI and Data Mining<br>I'm looking for a Summer Internship<br>Reach me on Instagram @ben.walsh4 , or by email: ben.walsh4@icloud.com<br><br>
 
-
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/benkwlsh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ben-walsh-822558233) 
 
 # 💻 Tech Stack:
