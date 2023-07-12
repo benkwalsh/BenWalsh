@@ -1,0 +1,208 @@
+%------------------------
+% Author : Ben Walsh
+% Github : https://github.com/benkwalsh
+% "My CV"
+%------------------------
+
+\documentclass[a4paper,20pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[pdftex]{hyperref}
+\usepackage{fancyhdr}
+
+\pagestyle{fancy}
+\fancyhf{} % remove all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjustment to margins
+\addtolength{\oddsidemargin}{-0.530in}
+\addtolength{\evensidemargin}{-0.375in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.45in}
+\addtolength{\textheight}{1in}
+
+\urlstyle{rm}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Formatting
+\titleformat{\section}{
+  \vspace{-10pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-6pt}]
+
+%-----------------------------------
+% Custom setup
+\newcommand{\resumeItem}[2]{
+  \item\small{
+    \textbf{#1}{: #2 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeItemWithoutTitle}[1]{
+  \item\small{
+    {\vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-1pt}\item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{#3} & \textit{#4} \\
+    \end{tabular*}\vspace{-5pt}
+}
+
+
+\newcommand{\resumeSubItem}[2]{\resumeItem{#1}{#2}\vspace{-3pt}}
+
+\renewcommand{\labelitemii}{$\circ$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=*]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-----------------------------
+%%%%%%  CV STARTS HERE  %%%%%%
+
+\begin{document}
+
+%----------HEADING-----------------
+
+\begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+  \textbf{{\LARGE Ben Walsh}} & Email: \href{mailto:}{ben.walsh4@icloud.com}\\
+  \href{https://www.linkedin.com/in/ben-walsh-822558233/}{linkedin: linkedin.com/in/ben-walsh } & Mobile:~~~~~~~~~+64 027 415 8143 \\
+  \href{https://github.com/benkwalsh}{Github: ~~github.com/benkwalsh} \\
+\end{tabular*}
+
+%-----------EDUCATION-----------------
+
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {University of Canterbury}{Christchurch, New Zealand}
+      {Bachelor of Science - Conjoint Major in Computer Science, Mathematics and Statistics}{Feb 2021 - Present}
+      {\scriptsize \textit{ \footnotesize{\newline{}\textbf{Concentrations:} Statistical Analysis, Programming, AI, Algorithms}}}
+    \resumeSubheading
+      {New Plymouth Boys High School}{New Plymouth, New Zealand}
+      {NCEA Levels 1, 2, 3, Head of Niger House and School Prefect, Hostel Dux}{Feb 2016 - Dec 2020}
+      {\scriptsize \textit{ \footnotesize{\newline{}\textbf{Concentrations:} Leadership, Academia, Sociability, Physical Health}}}
+    \resumeSubHeadingListEnd
+
+%----------PROFESSIONAL EXPERIENCE--------------
+
+\vspace{-9pt}
+\section{Professional Experience}
+  \resumeSubHeadingListStart
+    \resumeSubheading{POSbiz Software Specialist}{Christchurch}
+    {Student Specialist (Part-time)}{Feb 2023 - Present}
+    \resumeItemListStart
+        \resumeItem{Software}
+          {Develop an exceptional understanding of the software.}
+          \resumeItem{Communication}
+          {Be able to articulate at a lower level how to use the software.}
+          \resumeItem{Problem Solving}{Solve problems that customers have with the software quickly, and over the phone.}
+      \resumeItemListEnd
+    \resumeSubheading
+		{University}{Christchurch}
+		{Student (Full-time)}{Feb 2021 - Present}
+		\resumeItemListStart
+        \resumeItem{Statistical Analysis}
+          {Multivariate Methods,  Regression Modelling, Computational Statistics}
+        \resumeItem{Programming}
+          {Formal Languages and Compilers, Graphing/Searching Algorithms (DP), R (Statistical Modelling)}
+        \resumeItem{Mathematics}
+          {Predominantly Statistics but also Discrete, Calculus, and Finance}
+        \resumeItem{Engineering}
+          {Product Design, Materials Science, Physics}
+		\resumeItemListEnd
+
+\resumeSubHeadingListEnd
+
+%----------LEADERSHIP EXPERIENCE--------------
+
+\vspace{-5pt}
+\section{Leadership Experience}
+  \resumeSubHeadingListStart
+    \resumeSubheading{Head of Niger House}{New Plymouth}
+    {Student (Full-time)}{Feb 2020 - Dec 2020}
+    \resumeItemListStart
+        \item {Looked after 30, 17 year old men. This included ensuring daily chores were completed on time, problem solving and
+        setting the example, all requiring exceptional people skills.}
+        \vspace{-3pt}
+        \item {Frequently talked in-front of 200 Hostel Students, laying down future plans and rule changes.}
+        \vspace{-3pt}
+        \item {Chairman for year group meetings, organising inter-hostel events.}
+      \resumeItemListEnd
+\vspace{-1pt}
+    \resumeSubheading
+	{School Prefect}{New Plymouth}
+	{Student (Full-time)}{Feb 2020 - Dec 2020}
+		\resumeItemListStart
+        \item {Throughout the year I consistently read a Karakia and the daily notices to the whole school over the intercom system.}
+        \vspace{-3pt}
+        \item {Worked with an outside clothing business to design, calculate costs, manage, sell and market the leavers clothing/gear
+        for 2020, this shown light on my managerial and organisation skills.}
+        \vspace{-3pt}
+        \item {In-forced school rules and disciplinary jobs on other wrong-doing students. Being stable with your new height \newline
+        of power was important.}
+      \resumeItemListEnd
+
+\resumeSubHeadingListEnd
+
+%---------VOLUNTEER EXPERIENCE------------
+
+\vspace{-6pt}
+\section{Volunteer Experience}
+  \resumeSubHeadingListStart
+    \resumeSubheading{Womens Refuge}{New Plymouth}
+    {Philanthropist}{2018 - 2020}
+    \resumeItemListStart
+        \item {For 2 years in a row generated the largest amount of donations for the Women's Refuge during the annual New Plymouth 
+        wide donation gathering.}
+      \resumeItemListEnd
+\vspace{-1pt}
+    \resumeSubheading
+	{Veterans Rest Home Care}{Christchurch}
+	{Volunteer}{2021}
+		\resumeItemListStart
+        \item {Visited veterans on veterans day to enjoy some food and a chat. Was extremely fascinating and eye opening to hear their 
+        thoughts on life and how they spent theirs.}
+      \resumeItemListEnd
+
+\resumeSubHeadingListEnd
+
+%-----------SKILLS----------------
+
+\vspace{-5pt}
+\section{Skills/Interests/Miscellaneous}
+\resumeSubHeadingListStart
+	\resumeSubItem{Languages}{Python, C, R, Latex}
+	\resumeSubItem{Platforms/Tools}{Linux, Windows, Mac, Ubuntu, Microsoft Office, VScode, VIM, Rstudio, Adobe Photoshop}
+	\resumeSubItem{Soft Skills}{Leadership, Public Speaking, Time Management}
+    \resumeSubItem{Hobbies}{Golf, Skiing, Tech, Physical Health, Music}
+\resumeSubHeadingListEnd
+
+%-----------AWARDS-----------------
+
+\vspace{-2pt}
+\section{Honors and Awards}
+\resumeSubHeadingListStart
+    \item {Awarded Hostel DUX - November, 2020}
+    \vspace{-5pt}
+    \item {Mathematics and Statistics Honors (100\% in level 3 Statistics) - November 2020}
+    \vspace{-5pt}
+    \item {Ryder Memorial Award (Striking service with good humour, maintaining sound academic standards) - November, 2020}
+\resumeSubHeadingListEnd
+
+\end{document}
