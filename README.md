@@ -1,5 +1,5 @@
 # 👋🏼 About Me:
-I'm Currently studying a the University of Canterbury, New Zealand<br>I'm Currently looking for a grad/intern role<br>My CV: https://github.com/benkwalsh/benkwalsh/blob/main/Ben_Walsh_CV%20%5BFINAL%5D%20updt_3.pdf<br>Reach me by email: ben.walsh4@icloud.com<br>
+I'm Currently studying a the University of Canterbury, New Zealand<br>I'm Currently looking for a grad/intern role<br>Reach me by email: ben.walsh4@icloud.com<br>
 
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/benkwlsh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ben-walsh-822558233) 
